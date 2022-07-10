@@ -1,0 +1,10 @@
+{
+  "name": "figmaexport-uri-hwalteo-page_1-iphone_11_pro__x_-_1",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
